@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gowripandith
-- 👀 I’m interested in Cloud technology 
-- 🌱 I’m currently learning about Multicloud technology
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning about Flutter,Dart
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me gowripandith.tr@outlook.com
 
